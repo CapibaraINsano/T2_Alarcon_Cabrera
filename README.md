@@ -1,4 +1,4 @@
-Nombre completo del estudiante: 
+Nombre completo del estudiante:
 
 
 
@@ -31,6 +31,16 @@ Breve descripción de la finalidad del repositorio:
 
 
 &#x09;Tiene como finalidad el desarrollo del examen T2
+
+
+
+
+
+Evidencia T2
+
+La evaluación consiste en resolver el examen
+
+
 
 
 
