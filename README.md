@@ -43,5 +43,17 @@ La evaluación consiste en resolver el examen
 
 
 Control de Cambios:
-	En esta actualización se realizan cambios
+En esta actualización se realizan cambios
+
+
+
+
+
+Gestion de Ramas:
+
+
+
+rama donde se esta trabajando: feature-Alarcon; se creó una nueva rama
+
+
 
